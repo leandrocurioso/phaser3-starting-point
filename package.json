@@ -1,6 +1,6 @@
 {
   "name": "phaser3-starting-point",
-  "version": "1.2.2",
+  "version": "1.0.0",
   "description": "A starting point structure for Phaser 3",
   "keywords": [
     "phaser-webpack",
